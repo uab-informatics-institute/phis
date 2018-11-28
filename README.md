@@ -13,11 +13,11 @@ The majority code of the solution used Java technology. Only the thin client of 
 - Two de-identification modes: "Safe Harbor" AND "Limited Data Set". 
 
 ## Latest Build
-- [phis_standalone.exe](https://github.com/uab-informatics-institute/phis/releases/download/v1.0/phis_standalone.exe)
-- [phis_standalone.jar](https://github.com/uab-informatics-institute/phis/releases/download/v1.0/phis_standalone.jar)
-- [phis_client.exe](https://github.com/uab-informatics-institute/phis/releases/download/v1.0/phis_client.exe)
-- [phis_server.jar](https://github.com/uab-informatics-institute/phis/releases/download/v1.0/phis_server.jar)
-- [Source Code](https://github.com/uab-informatics-institute/phis/archive/v1.0.zip)
+- [phis_standalone.exe](https://github.com/uab-informatics-institute/phis/releases/download/1.0/phis_standalone.exe)
+- [phis_standalone.jar](https://github.com/uab-informatics-institute/phis/releases/download/1.0/phis_standalone.jar)
+- [phis_client.exe](https://github.com/uab-informatics-institute/phis/releases/download/1.0/phis_client.exe)
+- [phis_server.jar](https://github.com/uab-informatics-institute/phis/releases/download/1.0/phis_server.jar)
+- [Source Code](https://github.com/uab-informatics-institute/phis/archive/1.0.zip)
 
 ## How To Run
 ### Minimum Runtime Requirement
